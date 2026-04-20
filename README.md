@@ -1,5 +1,6 @@
 # myProfile
 My GitHub Profile
+<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph@2.0.0/dist/index.min.js"></script>
 
 ## My Contribution Graph
 
