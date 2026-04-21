@@ -13,18 +13,13 @@ I enjoy learning AI. I spend my time on training models, working with data, and 
 <h3>🚀 Languages & Tools </h3>
 
 - 📚 **Agents/RAG:** Langchain, LangGraph
--📚 **Model Training:** LoRA, Fine Tuning, Transfer Learning
--📚 **Gen AI Models:** SLM, Stable Diffusion
--📚  **Deep Learning Models:** CNNs, Transformers 
--📚  **Data Handling:** Data Cleaning, Feature Engineering, Pandas, NumPy 
--📚  **Framework/Architecture:** Django, FastAPI, Flask
--📚  **Language:** Python, C, JavaScript, SQL, CSS, HTML
-
-- **Machine Learning:** Supervised & Unsupervised Learning, Model Evaluation  
-- **Deep Learning:** Neural Networks, CNNs, RNNs, Transformers  
-- **Natural Language Processing:** Text Classification, Sentiment Analysis, LLMs  
-- **Computer Vision:** Image Classification, Object Detection  
-- **MLOps & Deployment:** Model Serving, APIs, Docker, CI/CD  
+- 📚 **Model Training:** LoRA, Fine Tuning, Transfer Learning
+- 📚 **Gen AI Models:** SLM, Stable Diffusion, Gemma Models, Llama Models
+- 📚 **Deep Learning Models:** CNNs, Transformers 
+- 📚 **Data Handling:** Data Cleaning, Feature Engineering, Pandas, NumPy 
+- 📚 **Framework/Architecture:** llama.cpp, MCP, , Tensorflow, PyTorch, Django, FastAPI, Flask
+- 📚 **Language:** Python, C, JavaScript, SQL, CSS, HTML
+- 📚 **MLOps & Deployment:** Model Serving, APIs, CI/CD  
 
 <h3>Find me here</h3>
 <p>
