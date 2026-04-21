@@ -12,7 +12,7 @@ I enjoy learning AI. I spend my time on training models, working with data, and 
 
 <h3>🚀 Languages & Tools </h3>
 **Agents/RAG:** Langchain, LangGraph
-- 📚  **Model Training:** LoRA, Fine Tuning, Transfer Learning
+- 📚  Model Training: LoRA, Fine Tuning, Transfer Learning
 -📚  **Gen AI Models:** SLM, Stable Diffusion
 -📚  **Deep Learning Models:** CNNs, Transformers 
 -📚  **Data Handling:** Data Cleaning, Feature Engineering, Pandas, NumPy 
