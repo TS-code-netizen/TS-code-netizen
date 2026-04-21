@@ -13,7 +13,7 @@ I enjoy learning AI. I spend my time on training models, working with data, and 
 <h3>Find me here</h3>
 <p>
   <a href="https://www.kaggle.com/tiffanyseah">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white&border_color=white&card_width=100" />
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white&border_color=white" />
   </a>
   <a>
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&card_width=100" />
