@@ -10,16 +10,16 @@
 <h2> 
 <p align="center">
   <a href="https://www.kaggle.com/tiffanyseah">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white&border_color=white&card_width=800" />
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white&border_color=white&card_width=1000" />
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&card_width=800" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&card_width=1000" />
   </a>
   <a href="https://huggingface.co/TiffanySMY">
-    <img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white&card_width=800" />
+    <img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white&card_width=1000" />
   </a>
   <a href="https://leetcode.com/u/TiffanySeah">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&card_width=800" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&card_width=1000" />
   </a>
 </p>
 
