@@ -4,6 +4,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TS-code-netizen/TS-code-netizen/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TS-code-netizen/TS-code-netizen/output/pacman-contribution-graph.svg">
 </picture>
+
+<h3>Hi👋  I'm Tiffany, nice to meet you.</h3>
+<body>
+I enjoy learning AI. I spend my time on training models, working with data, and deploying AI solutions that solve meaningful problems. Always exploring new tools and techniques in the AI space. 
+</body>
+
+<h3>Find me here</h3>
 <p align="center">
   <a href="https://www.kaggle.com/tiffanyseah">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white&border_color=white&card_width=100" />
@@ -18,12 +25,5 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&card_width=100" />
   </a>
 </p>
-
-<h3>Hi👋  I'm Tiffany, nice to meet you.</h3>
-<body>
-I enjoy learning AI. I spend my time on training models, working with data, and deploying AI solutions that solve meaningful problems. Always exploring new tools and techniques in the AI space. 
-</body>
-
-
 
 
