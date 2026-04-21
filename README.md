@@ -17,7 +17,7 @@ I enjoy learning AI. I spend my time training models, working with data, and dep
 - 📚 **Gen AI Models:** SLM, Stable Diffusion, Gemma Models, Llama Models
 - 📚 **Deep Learning Models:** CNNs, Transformers 
 - 📚 **Data Handling:** Data Cleaning, Feature Engineering, Pandas, NumPy 
-- 📚 **Framework/Architecture:** llama.cpp, MCP, , Tensorflow, PyTorch, Django, FastAPI, Flask
+- 📚 **Framework/Architecture:** llama.cpp, MCP, Tensorflow, PyTorch, Django, FastAPI, Flask
 - 📚 **Language:** Python, C, JavaScript, SQL, CSS, HTML
 - 📚 **MLOps & Deployment:** Model Serving, APIs, CI/CD  
 
