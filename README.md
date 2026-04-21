@@ -10,7 +10,7 @@
 <h2> 
 <p align="center">
   <a href="https://www.kaggle.com/tiffanyseah">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white&hide_border=false&card_width=800" />
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white&hide_border=false&border_color=white&card_width=800" />
   </a>
   <a>
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&card_width=800" />
