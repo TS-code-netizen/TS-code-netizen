@@ -21,7 +21,7 @@
 
 <h3>Hi👋  I'm Tiffany, nice to meet you.</h3>
 <body>
-I am an AI engineer. I enjoy learning AI. I spend my time on training models, working with data, and deploying AI solutions that solve meaningful problems. Always exploring new tools and techniques in the AI space. 
+I enjoy learning AI. I spend my time on training models, working with data, and deploying AI solutions that solve meaningful problems. Always exploring new tools and techniques in the AI space. 
 </body>
 <h4>Skills
 <</h4>
