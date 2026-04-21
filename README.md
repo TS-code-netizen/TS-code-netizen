@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=400&section=header&text=Welcome%20-nl-To%20My%20Profile&fontSize=90&animation=twinkling&theme=radical"/>
-<h3 align="center">I'm Tiffany, I am an AI engineer.</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Welcome%20-nl-To%20My%20Profile&fontSize=90&animation=twinkling&theme=radical"/>
+<h3>Hi! I'm Tiffany, nice to meet you.</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TS-code-netizen/TS-code-netizen/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TS-code-netizen/TS-code-netizen/output/pacman-contribution-graph.svg">
