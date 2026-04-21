@@ -21,7 +21,7 @@ I enjoy learning AI. I spend my time training models, working with data, and dep
 - 📚 **Language:** Python, C, JavaScript, SQL, CSS, HTML
 - 📚 **MLOps & Deployment:** Model Serving, APIs, CI/CD  
 
-<h3>Find me here</h3>
+<h3>🔥 Find me here</h3>
 <p>
   <a href="https://www.kaggle.com/tiffanyseah">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white&border_color=white" />
