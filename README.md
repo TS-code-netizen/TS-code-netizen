@@ -5,7 +5,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TS-code-netizen/TS-code-netizen/output/pacman-contribution-graph.svg">
 </picture>
 
-<h3>Hi👋  I'm Tiffany, nice to meet you.</h3>
+<h2>Hi👋  I'm Tiffany, nice to meet you.</h2>
 <body>
 I enjoy learning AI. I spend my time on training models, working with data, and deploying AI solutions that solve meaningful problems. Always exploring new tools and techniques in the AI space. 
 </body>
