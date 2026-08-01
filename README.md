@@ -7,7 +7,7 @@
 
 <h2>Hi👋  I'm Tiffany, nice to meet you.</h2>
 <body>
-I enjoy learning AI. I spend my time training models, working with data, and deploying AI solutions that solve meaningful problems. Always exploring new tools and techniques in the AI space. I have 2 AI patents which are pending for official approval. 
+I enjoy learning AI. I spend my time building agents, training models, working with data, and deploying AI solutions that solve meaningful problems. Always exploring new tools and techniques in the AI space. I am a sole inventor for 2 AI patents which are pending for official approval. 
 </body>
 
 <h3>🚀 Languages & Tools </h3>
