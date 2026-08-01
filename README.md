@@ -12,28 +12,28 @@ I enjoy learning AI. I spend my time training models, working with data, and dep
 
 <h3>🚀 Languages & Tools </h3>
 
-- 📚 **Agents/RAG:** Langchain, LangGraph
+- 📚 **Agent Orchestration:** LangChain, LangGraph, RAG, MCP, Skills, OpenClaw, Google ADK, Google A2A 
 - 📚 **Model Training:** LoRA, Fine Tuning, Transfer Learning
 - 📚 **Gen AI Models:** SLM, Gemma Models, Llama Models, Stable Diffusion
 - 📚 **Deep Learning Models:** CNNs, Transformers 
-- 📚 **Data Handling:** Data Cleaning, Feature Engineering, Pandas, NumPy 
-- 📚 **Framework/Architecture:** llama.cpp, MCP, Tensorflow, PyTorch, Django, FastAPI, Flask
+- 📚 **Data Handling:** Data Cleaning, Feature Engineering, Pandas, NumPy, Web Scraping 
+- 📚 **Framework/Architecture:** llama.cpp, Tensorflow, PyTorch, Django, FastAPI, Flask
 - 📚 **Language:** Python, C, JavaScript, SQL, CSS, HTML
-- 📚 **MLOps & Deployment:** Model Serving, APIs, CI/CD  
+- 📚 **MLOps & Deployment:** Model Servin, APIs, CI/CD  
 
 <h3>🔥 Find me here</h3>
 <p>
   <a href="https://www.kaggle.com/tiffanyseah">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white&border_color=white" />
   </a>
-  <a>
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  <a href="https://leetcode.com/u/TiffanySeah">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
   </a>
   <a href="https://huggingface.co/TiffanySMY">
     <img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/TiffanySeah">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  <a>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
