@@ -32,9 +32,6 @@ I enjoy learning AI. I spend my time training models, working with data, and dep
   <a href="https://huggingface.co/TiffanySMY">
     <img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white" />
   </a>
-  <a>
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
 </p>
 
 
