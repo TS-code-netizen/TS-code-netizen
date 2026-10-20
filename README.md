@@ -12,7 +12,7 @@ I enjoy learning AI. I spend my time building agents, training models, working w
 
 <h3>🚀 Languages & Tools </h3>
 
-- 📚 **Model Training:** LoRA, Fine Tuning, Transfer Learning
+- 📚 **Model Training:** QLoRa, LoRA, Fine Tuning, Transfer Learning
 - 📚 **Gen AI Models:** SLM, Gemma Models, Llama Models, Diffusion Models
 - 📚 **Agent Orchestration:** LangChain, LangGraph, RAG, MCP, Skills, OpenClaw, Google ADK, Google A2A 
 - 📚 **Deep Learning Models:** CNNs, Transformers 
